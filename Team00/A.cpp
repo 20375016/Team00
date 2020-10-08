@@ -3,6 +3,6 @@
 
 void APrint()
 {
-	printf( "X\n" ) ;
+	printf( "Y\n" ) ;
 }
 
